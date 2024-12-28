@@ -1,5 +1,3 @@
----
-
 ### **Hospital Management System**
 
 **Technologies Used:**
